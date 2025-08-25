@@ -1,0 +1,14 @@
+[package]
+name = 'IntegerMate'
+version = '1.0.0'
+
+[addresses]
+std = "0x1"
+aptos_std = "0x1"
+aptos_framework = "0x1"
+integer_mate = "0x9f1feff9a32d2017ae47ed122d2c6b0ff8cd3143f12ec9211344261e0bcb6cfb"
+
+[dependencies.AptosTokenObjects]
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "dev"
+subdir = "aptos-move/framework/aptos-token-objects"
