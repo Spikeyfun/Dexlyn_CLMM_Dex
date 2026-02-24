@@ -6,7 +6,7 @@ version = '1.0.0'
 std = "0x1"
 aptos_std = "0x1"
 aptos_framework = "0x1"
-integer_mate = "0x9f1feff9a32d2017ae47ed122d2c6b0ff8cd3143f12ec9211344261e0bcb6cfb"
+integer_mate = "0xc3a610069fa7545cf14e266e849954bf385aca957bb489b1dc069a4baa29b502"
 
 [dependencies.AptosTokenObjects]
 git = "https://github.com/Entropy-Foundation/aptos-core.git"
