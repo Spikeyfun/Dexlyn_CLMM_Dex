@@ -15,3 +15,6 @@ integer_mate = "0x9f1feff9a32d2017ae47ed122d2c6b0ff8cd3143f12ec9211344261e0bcb6c
 git = 'https://github.com/Entropy-Foundation/aptos-core.git'
 subdir = 'aptos-move/framework/aptos-token'
 rev = 'dev'
+
+[dependencies.IntegerMate]
+local = "../IntegerMate"
