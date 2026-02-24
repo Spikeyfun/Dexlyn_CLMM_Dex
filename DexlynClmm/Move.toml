@@ -17,4 +17,6 @@ subdir = 'aptos-move/framework/aptos-token'
 rev = 'dev'
 
 [dependencies.IntegerMate]
-local = "../IntegerMate"
+git = "https://github.com/Spikeyfun/Dexlyn_CLMM_Dex.git"
+rev = "master"
+subdir = "IntegerMate"
